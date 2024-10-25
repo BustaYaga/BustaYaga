@@ -17,7 +17,7 @@ I’m a cybersecurity student studying Computer Applications, with a focus on ne
 3. **[Malware Analysis Script](./projects/malware-analysis)**: Python, YARA, VirusTotal API
 
 ### Certifications
-- Google Cybersecurity Professional Certificate (In Progress)
+- Google Cybersecurity Professional Certificate
 
 ---
 
