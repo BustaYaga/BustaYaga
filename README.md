@@ -1,4 +1,4 @@
-# Cybersecurity Portfolio
+# Hi, I'm Anmol Chaudhary
 
 Welcome to my Cybersecurity Portfolio! Here, you'll find projects and resources documenting my journey in cybersecurity.
 
@@ -27,7 +27,7 @@ I’m a cybersecurity student studying Computer Applications, with a focus on ne
 ---
 
 ## 📫 Contact
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **Email**: [anmolchaudhary8317@gmail.com](mailto:anmolchaudhary8317@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/anmolchaudhary01/](https://www.linkedin.com/in/anmolchaudhary01/)
 
 Thank you for visiting!
