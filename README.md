@@ -1,33 +1,7 @@
 # Hi, I'm Anmol Chaudhary
 
-Welcome to my Cybersecurity Portfolio! Here, you'll find projects and resources documenting my journey in cybersecurity.
+I'm a Computer Applications graduate and cybersecurity practitioner with hands-on experience across offensive and defensive security — having rooted 20+ HackTheBox machines covering web exploitation (IDOR, SSTI, RCE, CVE chaining), Active Directory attacks (BloodHound, Kerberoasting, domain escalation) and network forensics; currently seeking an entry-level role in Network Engineering, SOC Analysis, Red Teaming, or Digital Forensics.
 
----
-
-## 🔍 About Me
-I’m a cybersecurity student studying Computer Applications, with a focus on network security, ethical hacking, and digital forensics. Passionate about learning and hands-on projects.
-
----
-
-## 📁 Highlights
-
-### Projects
-1. **[Vulnerability Assessment](./projects/vulnerability-assessment)**: OWASP Top 10, Burp Suite, Nmap
-2. **[Network Penetration Testing Lab](./projects/network-penetration-testing-lab)**: Metasploit, Wireshark
-3. **[Malware Analysis Script](./projects/malware-analysis)**: Python, YARA, VirusTotal API
-
-### Certifications
-- Google Cybersecurity Professional Certificate
-
----
-
-## 🚀 Tools & Skills
-**Network Security** | **Web Security** | **Digital Forensics** | **Python & Bash** | **Kali Linux & Windows**
-
----
-
-## 📫 Contact
-- **Email**: [anmolchaudhary8317@gmail.com](mailto:anmolchaudhary8317@gmail.com)
-- **LinkedIn**: [https://www.linkedin.com/in/anmolchaudhary01/](https://www.linkedin.com/in/anmolchaudhary01/)
-
-Thank you for visiting!
+- 📧 [anmolchaudhary8317@gmail.com](mailto:anmolchaudhary8317@gmail.com)
+- 💼 [linkedin.com/in/anmolchaudhary01](https://www.linkedin.com/in/anmolchaudhary01/)
+- 🐙 [github.com/bustayaga](https://github.com/bustayaga)
