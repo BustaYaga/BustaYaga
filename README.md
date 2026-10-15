@@ -1,7 +1,3 @@
-<div align="center">
-
-# Hi, I'm Anmol Chaudhary
-
-Cybersecurity practitioner seeking entry-level roles<br>
-www.bustayaga.online
-</div>
+<a href="https://bustayaga.github.io/portfolio/">
+  <img src="./banner.svg" width="100%" alt="Anmol Chaudhary — offensive security, SOC analysis & software development. View portfolio →" />
+</a>
